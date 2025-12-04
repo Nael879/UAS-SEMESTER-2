@@ -1,0 +1,10 @@
+1. install dependencies :
+npm install
+
+2. cek lokasi :
+ls 
+(setelah ls pastikan ada index.js, gunakan powershell)
+
+3. jalankan :
+node index.js
+(lalu jalankan perintah dibawah)
